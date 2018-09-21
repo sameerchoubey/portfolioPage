@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "My portfolio website",
   "main": "index.js",
-  "homepage":"https://sameerchoubey.github.io/portfolioPage",
+  "homepage": "https://wwww.sameerchoubey.me",
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursive",
-    "deploy":"gh-pages -d dist"
+    "deploy": "gh-pages -d dist"
   },
   "author": "Sameer Choubey",
   "license": "MIT",
